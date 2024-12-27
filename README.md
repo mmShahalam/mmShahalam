@@ -34,7 +34,6 @@ Here are some of my best projects:
 ---
 
 ## 📊 GitHub Stats  
-![Shahal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmShahalam&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmShahalam&layout=compact&theme=radical)  
 
 ---
