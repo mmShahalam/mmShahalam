@@ -40,6 +40,5 @@ Here are some of my best projects:
 
 ## 🤝 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/m-mirza-shah-alam/)  
-- 📸 [Instagram](https://www.instagram.com/mirzaa_sa/profilecard/?igsh=MWp4OTJsZnJtcGF0cw==)  
 
 Feel free to explore my repositories and reach out if you're interested in collaborating or discussing ideas! 🚀
